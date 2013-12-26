@@ -19,7 +19,7 @@ public class CharsIteration {
 		testCase(data);
 	}
 	/**
-	 * Creates a tenporary array and call the fill method
+	 * Creates a temporary array and call the fill method
 	 * @param data
 	 */
 	private static void testCase(char[] data){
